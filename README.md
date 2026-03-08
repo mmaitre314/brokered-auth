@@ -1,4 +1,4 @@
-Experiments with Entra brokered authentication.
+# Experiment with Entra brokered authentication
 
 Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html), and [VSCode](https://code.visualstudio.com/).
 
